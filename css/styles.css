@@ -10,14 +10,17 @@ h1 {
   font-size: 5.625rem; /* to make dynamic 90px/16 = 5.625 rem=root em     */
   margin: 2rem auto 0 auto;
   color: #66BFBF;
+  position: relative;
+
 }
 
 h2 {
   font-size: 2.5rem; /* to make dynamic 90px/16 = 5.625 rem=root em     */
   margin-top: 50px;
+  padding-bottom: 10px;
   color: #66BFBF;
   font-weight: normal;
-  padding-bottom: 10px;
+  position: relative;
 }
 
 h3 {
